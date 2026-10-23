@@ -1,0 +1,6 @@
+{
+  "name": "1 Coin Win",
+  "description": "Start with 1 golden coin and climb through Coin Flip Rush, Plinko Drop, Triple Slots, and Vault Climber to win massive jackpots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
